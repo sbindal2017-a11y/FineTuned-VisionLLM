@@ -147,9 +147,3 @@ FineTuned-VisionLLM is not a template-based announcer.
 
 It is a multimodal, multilingual, real-time AI broadcasting system capable of transforming raw race visuals into expressive, localized sports commentary.
 
-If you want, I can next:
-
-🔥 Make this extremely strong for US AI PM roles
-📈 Add measurable impact metrics
-🎥 Reposition it as AI Media Infrastructure
-🧠 Or convert all your projects into one cohesive AI Portfolio narrative
